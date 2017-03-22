@@ -12,6 +12,7 @@ namespace SurpMSBuildTasks
     /// regular expression in their Find metadata and
     /// replacing with their ReplaceWith metadata.Optional, the
     /// options for the regular expression evaluation can be specified.
+    /// http://blogs.clariusconsulting.net/kzu/how-to-perform-regular-expression-based-replacements-on-files-with-msbuild/
     /// </summary>
     /// <example>
     /// <code lang="xml"><![CDATA[
