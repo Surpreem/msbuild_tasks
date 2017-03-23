@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="RegexTransform.cs" />
+    <Compile Include="SetEnvVar.cs" />
     <Compile Include="Vc6.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
